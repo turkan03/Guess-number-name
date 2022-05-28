@@ -1,2 +1,2 @@
 # Guess-number-game
-Game whare you need guess a number.
+Game where you need guess a number.
